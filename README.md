@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there it's Ashwathy👋
 
+- 💻 DevOps & Cloud Enthusiast in the Digital Cosmos.
+- 🌐 Journeying through the Cloud, mastering GCP, AWS, Azure, and more.
+- 🤖 Love automating the mundane, orchestrating the extraordinary.
+- 📚 Devoting free time to learn new technologies.
+- 👥 Open for collaboration on Github!
+- 🚀 Crafting delivery piepline for seamless software releases! ✨
 <!--
 **ashunair/ashunair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

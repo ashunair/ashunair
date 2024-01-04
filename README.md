@@ -6,6 +6,7 @@
 - 📚 Devoting free time to learn new technologies.
 - 👥 Open for collaboration on Github!
 - 🚀 Crafting delivery piepline for seamless software releases! ✨
+- 🔗 Connect with me on LinkedIn - linkedin.com/in/ashwathy-nair98
 <!--
 **ashunair/ashunair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

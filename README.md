@@ -1,5 +1,5 @@
 ### Hi there it's Ashwathy👋
-![Header Image](./MyHeader.gif height="50%")
+![Header Image](./MyHeader.gif) 
 - 💻 DevOps & Cloud Enthusiast in the Digital Cosmos.
 - 🌐 Journeying through the Cloud, mastering GCP, AWS, Azure, and more.
 - 🤖 Love automating the mundane, orchestrating the extraordinary.

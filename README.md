@@ -11,6 +11,11 @@
 - 🔗 Connect with me on LinkedIn - linkedin.com/in/ashwathy-nair98
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+
+| Skill Category        | Technolgies and Tools       |
+|-----------------------|-----------------------------|
+| Programming Languages | <img src="https://img.shields.io/badge/HTML5-%23ebebeb?style=for-the-badge&logo=HTML5"/> <img src="https://img.shields.io/badge/Python-%23fbcb24?style=for-the-badge&logo=Python
+"/> <img src="https://img.shields.io/badge/CSS3-%23311ff9?style=for-the-badge&logo=CSS3"/> <img="">
 <!--
 **ashunair/ashunair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -9,6 +9,8 @@
 - 👥 Open for collaboration on Github!
 - 🚀 Crafting delivery piepline for seamless software releases! ✨
 - 🔗 Connect with me on LinkedIn - linkedin.com/in/ashwathy-nair98
+
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 <!--
 **ashunair/ashunair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

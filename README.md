@@ -14,8 +14,7 @@
 
 | Skill Category        | Technolgies and Tools       |
 |-----------------------|-----------------------------|
-| Programming Languages | <img src="https://img.shields.io/badge/HTML5-%23ebebeb?style=for-the-badge&logo=HTML5"/> <img src="https://img.shields.io/badge/Python-%23fbcb24?style=for-the-badge&logo=Python
-"/> <img src="https://img.shields.io/badge/CSS3-%23311ff9?style=for-the-badge&logo=CSS3"/> <img="">
+| Programming Languages | <img src="https://img.shields.io/badge/HTML5-%23ebebeb?style=for-the-badge&logo=HTML5"/><img src="https://img.shields.io/badge/Python-%23fbcb24?style=for-the-badge&logo=Python"/><img src="https://img.shields.io/badge/CSS3-%23311ff9?style=for-the-badge&logo=CSS3"/> 
 <!--
 **ashunair/ashunair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

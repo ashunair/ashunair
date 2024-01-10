@@ -17,6 +17,7 @@
 | Programming Languages | <img src="https://img.shields.io/badge/HTML5-%23ebebeb?style=for-the-badge&logo=HTML5"/> <img src="https://img.shields.io/badge/Python-%23fbcb24?style=for-the-badge&logo=Python"/> <img src="https://img.shields.io/badge/CSS3-%23311ff9?style=for-the-badge&logo=CSS3"/> <img src="https://img.shields.io/badge/Programming-%234374fb?style=for-the-badge&logo=C"> <img src="https://img.shields.io/badge/C%2B%2B-%231c50fc?style=for-the-badge&logo=C%2B%2B"> <img src="https://img.shields.io/badge/Java-%235382a1?style=for-the-badge&logo=Java">
 | DataBase | <img src="https://img.shields.io/badge/SQL-%23f3ebea?style=for-the-badge&logo=mysql"> <img src="https://img.shields.io/badge/Oracle-%23f80000?style=for-the-badge&logo=oracle"> <img src="https://img.shields.io/badge/PostgreSQL-%23b3b4d0?style=for-the-badge&logo=postgresql"> <img src="https://img.shields.io/badge/SQLite-%2378cff5?style=for-the-badge&logo=SQLite"> <img src="https://img.shields.io/badge/Microsoft%20Excel-%23006039?style=for-the-badge&logo=Microsoft%20Excel"> <img src="https://img.shields.io/badge/Microsoft%20Access-%23a6120d?style=for-the-badge&logo=Microsoft%20Access">
 | DevOps | <img src="https://img.shields.io/badge/Docker-%23ffffff?style=for-the-badge&logo=Docker"> <img src="https://img.shields.io/badge/Kubernetes-%23b3b3b3?style=for-the-badge&logo=Kubernetes"> <img src="https://img.shields.io/badge/GitLab%20CI-%23fca326?style=for-the-badge&logo=GitLab">
+| Operating System | <img src="https://img.shields.io/badge/Windows-%2300a1f1?style=for-the-badge&logo=Windows"> <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu"> <img src="https://img.shields.io/badge/Ubuntu-%23f3ce19?style=for-the-badge&logo=Linux&logoColor=black">
 | IT Project Management | <img src="https://img.shields.io/badge/Microsoft%20Project-%23009e49?style=for-the-badge&logo=MS%20Project">
 | Scripting and Automation | <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu%20bash"> <img src="https://img.shields.io/badge/Powershell-%230077c0?style=for-the-badge&logo=Powershell&logoColor=white">
 | Version Control Systems | <img src="https://img.shields.io/badge/GIT-%23f34f29?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=Github&logoColor=white">
@@ -25,6 +26,8 @@
 | Identity & Access Management | <img src="https://img.shields.io/badge/Google%20Cloud%20(IAM)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Active%20Directory-%230066cc?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
 | Cloud Platforms | <img src="https://img.shields.io/badge/Microsoft%20Azure-%230066cc?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-AWS&logoColor=ff9900 ">
 | IT Service Management (ITSM)  | <img src="https://hlassets.paessler.com/common/files/technology-partner/service-now/logo_servicenow.png" width=15% height=5%>
+| Monitoring | <img src="https://img.shields.io/badge/Datadog-%23774aa4?style=for-the-badge&logo=datadog">
+
 
 
 

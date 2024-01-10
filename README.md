@@ -24,7 +24,7 @@
 | Infrastructure as Code (IaC) | <img src="https://img.shields.io/badge/AWS%20cloudformation-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900"> <img src="https://img.shields.io/badge/Azure%20Resource%20Manager-%230066cc?style=for-the-badge&logo=microsoft-azure">
 | Identity & Access Management | <img src="https://img.shields.io/badge/Google%20Cloud%20(IAM)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Active%20Directory-%230066cc?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
 | Cloud Platforms | <img src="https://img.shields.io/badge/Microsoft%20Azure-%230066cc?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazon-AWS&logoColor=ff9900 ">
-| IT Service Management (ITSM)  | <img src="https://hlassets.paessler.com/common/files/technology-partner/service-now/logo_servicenow.png" width=20% height=5%>
+| IT Service Management (ITSM)  | <img src="https://hlassets.paessler.com/common/files/technology-partner/service-now/logo_servicenow.png" width=15% height=5%>
 
 
 

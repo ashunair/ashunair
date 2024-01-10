@@ -20,7 +20,7 @@
 | IT Project Management | <img src="https://img.shields.io/badge/Microsoft%20Project-%23009e49?style=for-the-badge&logo=MS%20Project">
 | Scripting and Automation | <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu%20bash"> <img src="https://img.shields.io/badge/Powershell-%230077c0?style=for-the-badge&logo=Powershell&logoColor=white">
 | Version Control Systems | <img src="https://img.shields.io/badge/GIT-%23f34f29?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=Github&logoColor=white">
-| Virtualization | <img src="https://img.shields.io/badge/VMware-%23263238?style=for-the-badge&logo=VMware&logoColor=%2342a5f5"> <img src="https://img.shields.io/badge/Microsoft%20Hyper%20V-%2342a5f5?style=for-the-badge&logo=Ms%20Hyper-V%20&logoColor=%2342a5f5">
+| Virtualization | <img src="https://img.shields.io/badge/VMware-%23263238?style=for-the-badge&logo=VMware&logoColor=%2342a5f5"> <img src="https://img.shields.io/badge/Microsoft%20Hyper%20V-%2342a5f5?style=for-the-badge&logo=Windows&logoColor=white">
 
 
 

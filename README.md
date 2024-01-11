@@ -38,4 +38,4 @@
 ![Ashwathy Nair GitHub Status](https://github-readme-stats.vercel.app/api?username=ashunair&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)  ![Ashwathy Nair GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashunair&theme=tokyonight&theme=icegray&border_radius=8)
 
 
-![Snake animation](https://github.com/ashunair/ashunair/blob/output/github-user-contribution)
+![Snake animation](https://github.com/ashunair/ashunair/blob/output/github-user-contribution.svg)

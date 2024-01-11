@@ -1,6 +1,6 @@
 ## <img src='https://media.giphy.com/media/71d7DkTjslzpJSn74P/giphy.gif' width="80"> it's Ashwathy here..
 <p align="center">
-<img src="./MyHeader.gif" alt="Header Image" height="1080" width="1920" align="center"></p>
+<img src="./MyHeader.gif" alt="Header Image" height="20%" width="1920" align="center"></p>
 
 - 💻 DevOps & Cloud Enthusiast in the Digital Cosmos.
 - 🌐 Journeying through the Cloud, mastering GCP, AWS, Azure, and more.

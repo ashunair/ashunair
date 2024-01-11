@@ -10,7 +10,7 @@
 - 🚀 Crafting delivery piepline for seamless software releases! ✨
 - 🔗 Connect with me on LinkedIn - linkedin.com/in/ashwathy-nair98
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# Skills <img src='https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif' width="40"> 
 
 | Skill Category        | Technolgies and Tools       |
 |-----------------------|-----------------------------|

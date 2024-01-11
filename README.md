@@ -29,11 +29,11 @@
 | Monitoring | <img src="https://img.shields.io/badge/Datadog-%23774aa4?style=for-the-badge&logo=datadog">
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge">
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
 
 ![Ashwathy Nair github graph](https://github-readme-activity-graph.vercel.app/graph?username=ashunair&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true)  
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
 
 ![Ashwathy Nair GitHub Status](https://github-readme-stats.vercel.app/api?username=ashunair&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)  ![Ashwathy Nair GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashunair&theme=tokyonight&theme=icegray&border_radius=8)
 

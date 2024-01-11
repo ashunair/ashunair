@@ -1,4 +1,4 @@
-### Hi there it's Ashwathy👋
+# Hi there it's Ashwathy👋
 <p align="center">
 <img src="./MyHeader.gif" alt="Header Image" height="50%" width="70%" align="center"></p>
 
@@ -10,7 +10,7 @@
 - 🚀 Crafting delivery piepline for seamless software releases! ✨
 - 🔗 Connect with me on LinkedIn - linkedin.com/in/ashwathy-nair98
 
-# Skills <img src='https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif' width="40"> 
+# Skills <img src='https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif' width="50"> 
 
 | Skill Category        | Technolgies and Tools       |
 |-----------------------|-----------------------------|

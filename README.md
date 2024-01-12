@@ -10,7 +10,7 @@
 - 🚀 Crafting delivery piepline for seamless software releases! ✨
 - 🔗 Connect with me on LinkedIn - linkedin.com/in/ashwathy-nair98
 
-## Skills <img src='https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif' width="50" height=5%> 
+## Skills <img src='https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif' width="50"> 
 
 | Skill Category        | Technolgies and Tools       |
 |-----------------------|-----------------------------|
@@ -29,7 +29,7 @@
 | Monitoring | <img src="https://img.shields.io/badge/Datadog-%23774aa4?style=for-the-badge&logo=datadog">
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge">
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height=5% />
 
 ![Ashwathy Nair github graph](https://github-readme-activity-graph.vercel.app/graph?username=ashunair&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true)  
 

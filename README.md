@@ -33,7 +33,7 @@
 
 ![Ashwathy Nair github graph](https://github-readme-activity-graph.vercel.app/graph?username=ashunair&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true)  
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="1" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="1.5" />
 
 ![Ashwathy Nair GitHub Status](https://github-readme-stats.vercel.app/api?username=ashunair&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)  ![Ashwathy Nair GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashunair&theme=tokyonight&theme=icegray&border_radius=8) 
 

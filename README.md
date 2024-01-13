@@ -35,7 +35,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="1.5" />
 
-![Ashwathy Nair GitHub Status](https://github-readme-stats.vercel.app/api?username=ashunair&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ashunair&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a> 
+![Ashwathy Nair GitHub Status](https://github-readme-stats.vercel.app/api?username=ashunair&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) <a href="[https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=ashunair&theme=tokyonight&theme=icegray&border_radius=8)"><img src="[https://streak-stats.demolab.com?user=ashunair&theme=highcontrast&mode=weekly](https://github-readme-streak-stats.herokuapp.com/?user=ashunair&theme=tokyonight&theme=icegray&border_radius=8)" alt="GitHub Streak" /></a> 
 
 
 ![Snake animation](https://github.com/ashunair/ashunair/blob/main/github-contribution-grid-snake.svg)

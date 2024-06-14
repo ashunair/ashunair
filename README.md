@@ -3,7 +3,7 @@
 <img src="./MyProfile.gif" alt="Header Image" height=5% width=60% align="center" width="1900"></p>
 
 - 💻 DevOps & Cloud Enthusiast in the Digital Cosmos.
-- 🌐 Journeying through the Cloud, mastering GCP, AWS, Azure, and more.
+- 🌐 Journeying through the Cloud, mastering GCP, AWS, Azure.
 - 🤖 Love automating the mundane, orchestrating the extraordinary.
 - 📚 Devoting free time to learn new technologies.
 - 👥 Open for collaboration on Github!

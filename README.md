@@ -35,7 +35,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" height="1.5" />
 
-![Ashwathy Nair's GitHub Status](https://github-readme-stats.vercel.app/api?username=ashunair&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8)  ![Ashwathy Nair's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashunair&theme=buefy&theme=buefy&border_radius=8)
+![Ashwathy Nair's GitHub Status](https://github-readme-stats.vercel.app/api?username=ashunair&rank_icon=percentile&show_icons=true&theme=flag-india&show=reviews&border_radius=7
+)  ![Ashwathy Nair's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashunair&theme=buefy&theme=flag-india&border_radius=8)
 
 
 ![Snake animation](https://github.com/ashunair/ashunair/blob/main/github-contribution-grid-snake.svg)

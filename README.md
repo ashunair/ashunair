@@ -1,6 +1,6 @@
 ## <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l1ZXNxM2h2NWR6dHI0d3BqOTQ0Ynh0eTd1b3E5NjF3aXVyd2dpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LrLxRDmyrjtnNnRD2S/giphy.gif' width="100"> <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm0yNnJ2Y2Z2eW5rY3I5NTY5ZnhsMGNlcXloZHhoYTRmMWk4YXNndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/stDZw1lVp7MCcLR2af/giphy.gif' height="120"> 
 <p align="center">
-<img src="./MyProfile.gif" alt="Header Image" height=5% width=60% align="center" width="1900"></p>
+<img src="./MyProfile.gif" alt="Header Image" height=5% width=90% align="center" width="1900"></p>
 
 - 💻 DevOps & Cloud Enthusiast in the Digital Cosmos.
 - 🌐 Journeying through the Cloud, mastering GCP, AWS, Azure.

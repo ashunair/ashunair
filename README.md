@@ -10,6 +10,7 @@
 - 🚀 Crafting delivery piepline for seamless software releases! ✨
 - 🔗 Connect with me on LinkedIn - linkedin.com/in/ashwathy-nair98
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashunair&label=Profile%20views&color=a8165d&style=social" alt="ashunair" /> </p>
+
 ## Skills <img src='https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif' width="50"> 
 
 | Skill Category        | Technolgies and Tools       |

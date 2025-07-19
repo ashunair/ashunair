@@ -21,7 +21,7 @@
 | Operating System | <img src="https://img.shields.io/badge/Windows-%2300a1f1?style=for-the-badge&logo=Windows"> <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu"> <img src="https://img.shields.io/badge/Linux-%23f3ce19?style=for-the-badge&logo=Linux&logoColor=black">
 | IT Project Management | <img src="https://img.shields.io/badge/Microsoft%20Project-%23009e49?style=for-the-badge&logo=MS%20Project">
 | Scripting and Automation | <img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu%20bash"> 
-| Version Control Systems | <img src="https://img.shields.io/badge/GIT-%23f34f29?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=Github&logoColor=white">
+| Version Control Systems | <img src="https://img.shields.io/badge/GIT-%23f34f29?style=for-the-badge&logo=Git&logoColor=white"> 
 | Virtualization | <img src="https://img.shields.io/badge/VMware-%23263238?style=for-the-badge&logo=VMware&logoColor=%2342a5f5"> <img src="https://img.shields.io/badge/Microsoft%20Hyper%20V-%2342a5f5?style=for-the-badge&logo=Windows&logoColor=white">
 | Infrastructure as Code (IaC) | <img src="https://img.shields.io/badge/AWS%20cloudformation-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900"> <img src="https://img.shields.io/badge/Azure%20Resource%20Manager-%230066cc?style=for-the-badge&logo=microsoft-azure">
 | Identity & Access Management | <img src="https://img.shields.io/badge/Google%20Cloud%20(IAM)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Active%20Directory-%230066cc?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
